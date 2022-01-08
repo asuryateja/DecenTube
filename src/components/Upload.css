@@ -1,0 +1,20 @@
+.containerr {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ea {
+    color: #ffffff !important;
+}
+
+.ea:hover {
+    color: #d63384 !important;
+}
+
+.e {
+    margin-left: 2px !important;
+    font-size: small !important;
+    color: #d63384 !important;
+}

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono:wght@400;700&display=swap');
+.cd-bod{ 
+    border-style: none !important;
+    background-color: #1B1B1B !important;
+   
+}
+.btn-hov:hover{
+    background-color: #808080 !important;
+    border-style: none !important;
+}
+
+.img-fluid{
+    height: 400px !important;
+}
+
+.text-b{
+    font-weight: bold !important;
+}
+
+
+.card-body {
+    align-items: center !important;
+}
+
+.kk {
+    margin-bottom: 10% !important;
+    margin-left: 20px !important;
+    border-radius: 50px;
+}
+
+.white-glassmorphism {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  .eth-card {
+    background-color:#a099ff;
+    height: 10rem !important;
+    width: 50% !important;
+    margin-left: 20% !important;
+    background-image: 
+      radial-gradient(at 83% 67%, rgb(152, 231, 156) 0, transparent 58%), 
+      radial-gradient(at 67% 20%, hsla(357,94%,71%,1) 0, transparent 59%), 
+      radial-gradient(at 88% 35%, hsla(222,81%,65%,1) 0, transparent 50%), 
+      radial-gradient(at 31% 91%, hsla(9,61%,61%,1) 0, transparent 52%), 
+      radial-gradient(at 27% 71%, hsla(336,91%,65%,1) 0, transparent 49%), 
+      radial-gradient(at 74% 89%, hsla(30,98%,65%,1) 0, transparent 51%), 
+      radial-gradient(at 53% 75%, hsla(174,94%,68%,1) 0, transparent 45%);
+  }
+
+  .pa {
+      cursor: pointer;
+  }
